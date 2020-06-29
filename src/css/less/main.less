@@ -1,0 +1,82 @@
+@import "font";
+@import "smart-grid";
+@import "var";
+@import "index";
+@import "index1";
+@import "index2";
+@import "index3";
+
+* {
+  box-sizing: border-box;
+  transition: all .2s;
+  .reset();
+}
+
+.debug {
+  .debug(rgba(118, 112, 137, 0), 1px solid #4AFFFF);
+}
+
+.wrapper {
+  .wrapper();
+}
+
+/*.wrapper-full {
+  .wrapper-full();
+}*/
+
+.wrapper_full {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+html,
+body {
+  height: auto;
+  position: relative;
+  z-index: 0;
+  padding: 0.01px;
+  display: block;
+}
+
+
+.br_red {
+  background: radial-gradient(45.23% 116.56% at 47.19% 43.94%, rgba(255, 79, 106, 0.85) 6.39%, rgba(246, 23, 63, 0) 85.01%), #F6173F;
+}
+
+.br_violet {
+  background: radial-gradient(56.48% 120.26% at 52.73% 67.77%, #6486FF 0%, rgba(169, 60, 255, 0) 100%), #6E49FF;
+}
+
+.br_green {
+  background: radial-gradient(34.74% 69.45% at 69.39% 55.35%, #26FA7B 0%, rgba(25, 214, 101, 0) 100%), #13D560;
+}
+
+.br_darkblue{
+  background: radial-gradient(54.6% 97.88% at 47.1% 17.93%, rgba(69, 88, 252, 0.8) 0%, rgba(24, 45, 234, 0) 100%), #182DEA;
+}
+
+
+.color_red {
+  color: @red;
+  border-top: 1px solid @red;
+  border-bottom: 1px solid @red;
+}
+
+.color_green {
+  color: @green;
+  border-top: 1px solid @green;
+  border-bottom: 1px solid @green;
+}
+
+.color_violet {
+  color: @violet;
+  border-top: 1px solid @violet;
+  border-bottom: 1px solid @violet;
+}
+
+.color_darkblue {
+  color: @darkblue;
+  border-top: 1px solid @darkblue;
+  border-bottom: 1px solid @darkblue;
+}

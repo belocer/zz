@@ -191,14 +191,17 @@
 
 .run_strings {
   display: block;
-  width: 100%;
   position: absolute;
-  transform: translate(-420px, 90px) skew(2deg, -10deg);
+  top: -750px;
+  transform: translate(-620px, 0) skew(2deg, -10deg);
   white-space: nowrap;
-  opacity: .9;
+  opacity: 0.9;
+  overflow: hidden;
 
   .run_stringsL,
-  .run_stringsR
+  .run_stringsR,
+  .run_stringsLL,
+  .run_stringsRR
   {
     margin-bottom: 40px;
     color: @dark;
@@ -209,3 +212,14 @@
     white-space: nowrap;
   }
 }
+
+.oh {
+  overflow: hidden;
+}
+
+.full-wrapper {
+  position: relative;
+  overflow-x: hidden;
+  min-height: 100vh;
+}
+

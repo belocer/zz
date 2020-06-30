@@ -50,14 +50,16 @@
                 </div>
             </div>
         </div>
+    </div>
 
-        <div class="run_strings">
-            <div class="run_stringsL">желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив</div>
-            <div class="run_stringsR">лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив</div>
-            <div class="run_stringsL">желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив</div>
-            <div class="run_stringsR">лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив</div>
-        </div>
+    <div class="run_strings">
+        <div class="run_stringsL">желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив</div>
+        <div class="run_stringsR">лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив</div>
+        <div class="run_stringsLL">желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив</div>
+        <div class="run_stringsRR">лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив</div>
+    </div>
 
+    <div class="wrapper">
         <div class="wrap_logo_center">
             <div class="logo_center">
                 <div class="logo_text">ZZ</div>
@@ -81,28 +83,60 @@
 <script>
   window.addEventListener('load', () => {
 
-    /* Анимация движущейся строки */
+      /* Анимация движущейся строки */
     let run_stringsL = document.querySelector('.run_stringsL')
+    let run_stringsR = document.querySelector('.run_stringsR')
+    let run_stringsLL = document.querySelector('.run_stringsLL')
+    let run_stringsRR = document.querySelector('.run_stringsRR')
+    let xl = 0
+    if (run_stringsL) {
+      document.addEventListener('mousemove', move_string)
+    }
 
-    /*if (run_stringsL) {
-      // Общая ширина строки
-      let width_ticker = run_stringsL.children.length * run_stringsL.children[0].offsetWidth
+    function move_string (e) {
+      let w = document.documentElement.clientWidth
+      let left_side = w / 2
+      if (left_side < e.clientX) {
+        xl += 2
+        run_stringsL.style.transform = `translateX(${xl}px)`
+        run_stringsR.style.transform = `translateX(-${xl}px)`
+        run_stringsLL.style.transform = `translateX(${xl}px)`
+        run_stringsRR.style.transform = `translateX(-${xl}px)`
+      } else {
+        xl -= 2
+        run_stringsL.style.transform = `translateX(-${xl}px)`
+        run_stringsR.style.transform = `translateX(${xl}px)`
+        run_stringsLL.style.transform = `translateX(-${xl}px)`
+        run_stringsRR.style.transform = `translateX(${xl}px)`
+      }
+    }
 
-      let count = 0
-      setInterval(() => {
-        run_stringsL.style.transform = 'translateX(-' + count + 'px)'
-        count = count + 15
-        // Если строка закончилась, то сбрасываю сдвиг влево
-        if (count > (width_ticker - document.body.clientWidth)) {
-          count = 0
-          run_stringsL.style.transform = 'translateX(-' + count + 'px)'
-        }
-      }, 40)
-    }*/
+      /*if (run_stringsL) {
+       // Общая ширина строки
+       let width_ticker = run_stringsL.children.length * run_stringsL.children[0].offsetWidth
 
-    /* Меняю цвет главного квадрата */
+       let count = 0
+       setInterval(() => {
+       run_stringsL.style.transform = 'translateX(-' + count + 'px)'
+       count = count + 15
+       // Если строка закончилась, то сбрасываю сдвиг влево
+       if (count > (width_ticker - document.body.clientWidth)) {
+       count = 0
+       run_stringsL.style.transform = 'translateX(-' + count + 'px)'
+       }
+       }, 40)
+       }*/
+
+      /* Ширина сайта */
+    let srcw = document.documentElement.clientWidth
+    let full_wrapper = document.querySelector('.full-wrapper')
+    full_wrapper.style.width = srcw + 'px'
+    //full_wrapper.style.overflow = 'hidden'
+
+      /* Меняю цвет главного квадрата */
     let wrap_eye = document.querySelector('.wrap_eye')
     wrap_eye.addEventListener('mouseenter', change_color_to_violet)
+    wrap_eye.addEventListener('mousemove', change_color_to_violet)
     function change_color_to_violet () {
       let wrap_logo_center = document.querySelector('.wrap_logo_center')
       wrap_logo_center.style.background = '#740FC3'
@@ -116,8 +150,7 @@
       wrap_logo_center.style.boxShadow = '20px 20px 110px #f9617c'
     }
 
-
-    /* Анимация глаза */
+      /* Анимация глаза */
 
     document.addEventListener('mousemove', move_eye)
 

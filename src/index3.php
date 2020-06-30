@@ -1,14 +1,4 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport"
-          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Реклама на транспорте</title>
-    <link rel="stylesheet" href="css/main.css?ver=<?= rand(10000, 99999)?>">
-</head>
-<body>
+<?php include 'header.php' ?>
 
 <div class="wrapper_full">
     <section class="first">
@@ -73,7 +63,7 @@
                 <a href="#" class="sandwich"> </a>
             </div>
 
-            <div class="integer">01 / 09</div>
+            <div class="integer">04 / 09</div>
 
             <div class="nav-block__bottom">
                 <a href="#" class="go_over">К разделу о компании</a>
@@ -83,7 +73,4 @@
     </section>
 </div>
 
-<script src="js/main.min.js"></script>
-
-</body>
-</html>
+<?php include 'footer.php'?>

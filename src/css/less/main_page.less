@@ -1,0 +1,211 @@
+.wrap_first_line {
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo_wrap_main {
+  display: flex;
+  margin-top: 50px;
+
+  .logo__link_black {
+    background: url('../img/logo_black.svg') center center / cover no-repeat no-repeat;
+    width: 55px;
+    height: 55px;
+    display: none;
+  }
+
+  .logo_text {
+    text-transform: uppercase;
+    font-size: 20px;
+    .CEB;
+  }
+}
+
+.select_lang {
+  display: flex;
+  align-items: baseline;
+  margin-top: 50px;
+
+  .select_lang__link {
+    text-decoration: none;
+    font-size: 16px;
+    color: #282937;
+    .AR;
+    margin-right: 20px;
+    font-weight: 600;
+  }
+
+  .active {
+    border: 1px solid #282937;
+    width: 46px;
+    height: 46px;
+    border-radius: 46px;
+    display: inline-block;
+    text-align: center;
+    line-height: 42px;
+  }
+}
+
+.right_link {
+  display: flex;
+  margin-top: 50px;
+
+  .nav-link__head {
+    .run_project {
+      padding-top: 10px;
+      padding-bottom: 10px;
+      text-decoration: none;
+      font-size: 13px;
+      .CEB;
+      display: inline-block;
+      width: 230px;
+      text-align: center;
+      text-transform: uppercase;
+      margin-right: 100px;
+    }
+
+    .sandwich {
+      width: 46px;
+      height: 15px;
+      border-top: 2px solid @dark;
+      border-bottom: 2px solid @dark;
+      display: inline-block;
+    }
+  }
+}
+
+
+.wrap_logo_center {
+  position: relative;
+  width: 400px;
+  height: 400px;
+  margin: 10% auto 0;
+  background: @red;
+  text-align: center;
+  line-height: 440px;
+  box-shadow: 20px 20px 110px lighten(@red, 15%);
+}
+
+.logo_center {
+  position: relative;
+  overflow: hidden;
+  width: 400px;
+  height: 400px;
+
+  .logo_text {
+    text-align: center;
+    font-size: 250px;
+    color: #fff;
+    width: 400px;
+    height: 400px;
+    .CEB;
+  }
+  .white_dashed_circle {
+    border: 2px dashed #E5E5E5;
+    height: 120px;
+    width: 120px;
+    border-radius: 120px;
+    position: absolute;
+    right: -61px;
+    bottom: -61px;
+    z-index: 1;
+    animation: linear rotate_dashed infinite 5s;
+  }
+}
+
+.wrap_eye {
+  display: inline-block;
+  height: 107px;
+  width: 107px;
+  border-radius: 107px;
+  background: #282937;
+  line-height: 130px;
+  position: absolute;
+  right: -54px;
+  bottom: -54px;
+  z-index: 0;
+
+  .wrap_border_dashed {
+    position: relative;
+
+    #eye {
+      display: inline-block;
+      width: 60px;
+      height: 30px;
+      text-align: center;
+      background: url('../img/eye_not_pupil.png') center center / cover no-repeat no-repeat;
+      line-height: 57px;
+    }
+
+    .border_dashed {
+      border: 2px dashed @red;
+      height: 120px;
+      width: 120px;
+      border-radius: 120px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      animation: linear rotate_dashed infinite 5s;
+      position: absolute;
+      right: -7px;
+      bottom: 16px;
+    }
+  }
+}
+
+/* Анимация вращения */
+@keyframes rotate_dashed {
+
+  0% {
+    transform: rotate(0);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+#pupil {
+  height: 21px;
+  width: 21px;
+  border-radius: 21px;
+  background: @red;
+  display: inline-block;
+  position: relative;
+  transform: translate(0px, -9px);
+  transition: all .2s;
+  
+  #dot {
+    content: '';
+    height: 7px;
+    width: 7px;
+    display: inline-block;
+    border-radius: 7px;
+    background: #282937;
+    position: absolute;
+    top: 7px;
+    left: 7px;
+  }
+}
+
+.run_strings {
+  display: block;
+  width: 100%;
+  position: absolute;
+  transform: translate(-420px, 90px) skew(2deg, -10deg);
+  white-space: nowrap;
+  opacity: .9;
+
+  .run_stringsL,
+  .run_stringsR
+  {
+    margin-bottom: 40px;
+    color: @dark;
+    text-transform: uppercase;
+    .CONT;
+    font-size: 85px;
+    font-weight: 800;
+    white-space: nowrap;
+  }
+}

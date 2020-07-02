@@ -109,7 +109,7 @@
     right: -61px;
     bottom: -61px;
     z-index: 1;
-    animation: linear rotate_dashed infinite 5s;
+    animation: linear rotate_dashed infinite 8s;
   }
 }
 
@@ -124,9 +124,11 @@
   right: -54px;
   bottom: -54px;
   z-index: 0;
+  transition: all 0s;
 
   .wrap_border_dashed {
     position: relative;
+    transition: all 0s;
 
     #eye {
       display: inline-block;
@@ -135,6 +137,7 @@
       text-align: center;
       background: url('../img/eye_not_pupil.png') center center / cover no-repeat no-repeat;
       line-height: 57px;
+      transition: all 0s;
     }
 
     .border_dashed {
@@ -146,10 +149,11 @@
       align-items: center;
       justify-content: center;
       text-align: center;
-      animation: linear rotate_dashed infinite 5s;
+      animation: linear rotate_dashed infinite 8s;
       position: absolute;
       right: -7px;
       bottom: 16px;
+      transition: all 0s;
     }
   }
 }
@@ -192,11 +196,12 @@
 .run_strings {
   display: block;
   position: absolute;
-  top: -1034px;
-  transform: translate(-620px, 0) skew(2deg, -10deg);
+  top: -2635px;
+  transform: translate(-1400px, 0) skew(2deg, -7deg);
   white-space: nowrap;
   opacity: 0.9;
   overflow: hidden;
+  transition: all .3s;
 
   .run_stringsL,
   .run_stringsR,
@@ -210,6 +215,7 @@
     font-size: 85px;
     font-weight: 800;
     white-space: nowrap;
+    transition: all .3s;
   }
 }
 

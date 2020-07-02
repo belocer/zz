@@ -53,10 +53,12 @@
     </div>
 
     <div class="run_strings">
-        <div class="run_stringsL">желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив</div>
+        <div class="run_stringsL">желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креативжелание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив</div>
         <div class="run_stringsR">лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив</div>
-        <div class="run_stringsLL">желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив</div>
-        <div class="run_stringsRR">лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив</div>
+        <div class="run_stringsLL">желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креативжелание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив</div>
+        <div class="run_stringsRR">лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креативлидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив
+            желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;креатив&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;лидерство&nbsp;&nbsp;&nbsp;&nbsp;огонь&nbsp;&nbsp;&nbsp;&nbsp;восторг&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;эмоции&nbsp;&nbsp;&nbsp;&nbsp;движение&nbsp;&nbsp;&nbsp;&nbsp;желание&nbsp;&nbsp;&nbsp;&nbsp;уzнаваемость&nbsp;&nbsp;&nbsp;&nbsp;вовлечённость&nbsp;&nbsp;&nbsp;&nbsp;креатив
+        </div>
     </div>
 
     <div class="wrapper">
@@ -78,10 +80,113 @@
             </div>
         </div>
     </div>
+
+    <div class="wrapper">
+        <div class="horse">
+            <div class="horse__left">
+                <p class="horse__text">
+                    Вашему вниманию представляется рекламное агентство “z.media”,
+                    предлагающее услуги по размещению рекламы в Санкт-Петербурге, Москве и других регионах России. Мы
+                    работаем эффективно, потому что понимаем потребности тех, кто обратился к нам за размещением
+                    рекламы.
+                    Мы работаем грамотно, потому что точно знаем, какую функцию рекламного текста использовать в той или
+                    иной рекламной кампании. Мы крепко стоим на ногах, развиваемся, а потому работаем быстро и
+                    качественно.
+                </p>
+
+                <a href="#" class="horse-link">
+                    <span class="horse-link__text">Я хочу это читать</span>
+                    <span class="horse-link__icon">&#8594;</span>
+                </a>
+            </div>
+            <div class="horse__right display_none">
+                <img src="img/horse.gif" alt="#">
+            </div>
+        </div>
+    </div>
+
+    <div class="wrapper">
+        <div class="bla">
+            <div class="bla__left">
+                <p class="bla__text">BLA BLA BLA</p>
+                <p class="bla__text">BLA BLA BLA</p>
+                <p class="fil_red">BLA BLA BLA</p>
+                <p class="bla__text">BLA BLA BLA</p>
+                <p class="bla__text">BLA BLA BLA</p>
+                <p class="bla__text">BLA BLA BLA</p>
+                <p class="bla__text">BLA BLA BLA</p>
+                <p class="bla__text">BLA BLA BLA</p>
+                <p class="bla__text">BLA BLA BLA</p>
+                <p class="bla__text">BLA BLA BLA</p>
+                <p class="bla__text">BLA BLA BLA</p>
+            </div>
+            <div class="bla__right">
+                <img src="img/eye_yellow1.png" alt="#" class="bla__img">
+                <img src="img/eye_yellow2.png" alt="#" class="bla__img">
+                <img src="img/eye_yellow3.png" alt="#" class="bla__img">
+                <img src="img/eye_yellow4.png" alt="#" class="bla__img">
+            </div>
+        </div>
+
+
+        <div class="wrap-ticker-smile">
+            <div class="ticker-smile">
+                <div class="ticker-smile__text">Лучше посмотрите, что мы умеем</div>
+                <div class="ticker-smile__icon"><img src="img/smile.png" alt=""></div>
+                <div class="ticker-smile__text">Лучше посмотрите, что мы умеем</div>
+                <div class="ticker-smile__icon"><img src="img/smile.svg" alt=""></div>
+                <div class="ticker-smile__text">Лучше посмотрите, что мы умеем</div>
+                <div class="ticker-smile__icon"><img src="img/smile.svg" alt=""></div>
+                <div class="ticker-smile__text">Лучше посмотрите, что мы умеем</div>
+                <div class="ticker-smile__icon"><img src="img/smile.svg" alt=""></div>
+                <div class="ticker-smile__text">Лучше посмотрите, что мы умеем</div>
+                <div class="ticker-smile__icon"><img src="img/smile.svg" alt=""></div>
+                <div class="ticker-smile__text">Лучше посмотрите, что мы умеем</div>
+                <div class="ticker-smile__icon"><img src="img/smile.svg" alt=""></div>
+                <div class="ticker-smile__text">Лучше посмотрите, что мы умеем</div>
+                <div class="ticker-smile__icon"><img src="img/smile.svg" alt=""></div>
+                <div class="ticker-smile__text">Лучше посмотрите, что мы умеем</div>
+                <div class="ticker-smile__icon"><img src="img/smile.svg" alt=""></div>
+                <div class="ticker-smile__text">Лучше посмотрите, что мы умеем</div>
+                <div class="ticker-smile__icon"><img src="img/smile.png" alt=""></div>
+                <div class="ticker-smile__text">Лучше посмотрите, что мы умеем</div>
+                <div class="ticker-smile__icon"><img src="img/smile.svg" alt=""></div>
+                <div class="ticker-smile__text">Лучше посмотрите, что мы умеем</div>
+                <div class="ticker-smile__icon"><img src="img/smile.svg" alt=""></div>
+                <div class="ticker-smile__text">Лучше посмотрите, что мы умеем</div>
+                <div class="ticker-smile__icon"><img src="img/smile.svg" alt=""></div>
+                <div class="ticker-smile__text">Лучше посмотрите, что мы умеем</div>
+                <div class="ticker-smile__icon"><img src="img/smile.svg" alt=""></div>
+                <div class="ticker-smile__text">Лучше посмотрите, что мы умеем</div>
+                <div class="ticker-smile__icon"><img src="img/smile.svg" alt=""></div>
+                <div class="ticker-smile__text">Лучше посмотрите, что мы умеем</div>
+                <div class="ticker-smile__icon"><img src="img/smile.svg" alt=""></div>
+                <div class="ticker-smile__text">Лучше посмотрите, что мы умеем</div>
+                <div class="ticker-smile__icon"><img src="img/smile.svg" alt=""></div>
+            </div>
+        </div>
+
+    </div>
 </div>
 
 <script>
   window.addEventListener('load', () => {
+
+      /* Показать лошадь */
+    let horse_link = document.querySelector('.horse-link')
+    horse_link.addEventListener('mouseover', show_horse)
+    horse_link.addEventListener('mousemove', show_horse)
+    function show_horse () {
+      let horse__right = document.querySelector('.horse__right')
+      horse__right.classList.remove('display_none')
+    }
+
+    horse_link.addEventListener('mouseout', hide_horse)
+    horse_link.addEventListener('mouseleave', hide_horse)
+    function hide_horse () {
+      let horse__right = document.querySelector('.horse__right')
+      horse__right.classList.add('display_none')
+    }
 
       /* Анимация движущейся строки */
     let run_stringsL = document.querySelector('.run_stringsL')
@@ -97,35 +202,19 @@
       let w = document.documentElement.clientWidth
       let left_side = w / 2
       if (left_side < e.clientX) {
-        xl += 7
+        xl += 2
         run_stringsL.style.transform = `translateX(${xl}px)`
         run_stringsR.style.transform = `translateX(-${xl}px)`
         run_stringsLL.style.transform = `translateX(${xl}px)`
         run_stringsRR.style.transform = `translateX(-${xl}px)`
       } else {
-        xl -= 7
+        xl -= 2
         run_stringsL.style.transform = `translateX(-${xl}px)`
         run_stringsR.style.transform = `translateX(${xl}px)`
         run_stringsLL.style.transform = `translateX(-${xl}px)`
         run_stringsRR.style.transform = `translateX(${xl}px)`
       }
     }
-
-      /*if (run_stringsL) {
-       // Общая ширина строки
-       let width_ticker = run_stringsL.children.length * run_stringsL.children[0].offsetWidth
-
-       let count = 0
-       setInterval(() => {
-       run_stringsL.style.transform = 'translateX(-' + count + 'px)'
-       count = count + 15
-       // Если строка закончилась, то сбрасываю сдвиг влево
-       if (count > (width_ticker - document.body.clientWidth)) {
-       count = 0
-       run_stringsL.style.transform = 'translateX(-' + count + 'px)'
-       }
-       }, 40)
-       }*/
 
       /* Ширина сайта */
     let srcw = document.documentElement.clientWidth
@@ -141,6 +230,17 @@
       let wrap_logo_center = document.querySelector('.wrap_logo_center')
       wrap_logo_center.style.background = '#740FC3'
       wrap_logo_center.style.boxShadow = '20px 20px 110px #5D59FF'
+      let border_dashed = document.querySelector('.border_dashed')
+      border_dashed.style.transition = 'all 0s'
+      border_dashed.style.opacity = '0'
+      let white_dashed_circle = document.querySelector('.white_dashed_circle')
+      white_dashed_circle.style.transition = 'all 0s'
+      white_dashed_circle.style.opacity = '0'
+      let wrap_eye = document.querySelector('.wrap_eye')
+      wrap_eye.style.transition = 'all 0s'
+      wrap_eye.style.width = '117px'
+      wrap_eye.style.height = '117px'
+      wrap_eye.style.lineHeight = '145px'
     }
 
     wrap_eye.addEventListener('mouseout', change_color_to_red)
@@ -148,6 +248,17 @@
       let wrap_logo_center = document.querySelector('.wrap_logo_center')
       wrap_logo_center.style.background = '#F6173F'
       wrap_logo_center.style.boxShadow = '20px 20px 110px #f9617c'
+      let border_dashed = document.querySelector('.border_dashed')
+      border_dashed.style.transition = 'all 0s'
+      border_dashed.style.opacity = '1'
+      let white_dashed_circle = document.querySelector('.white_dashed_circle')
+      white_dashed_circle.style.transition = 'all 0s'
+      white_dashed_circle.style.opacity = '1'
+      let wrap_eye = document.querySelector('.wrap_eye')
+      wrap_eye.style.transition = 'all 0s'
+      wrap_eye.style.width = ''
+      wrap_eye.style.height = ''
+      wrap_eye.style.lineHeight = ''
     }
 
       /* Анимация глаза */
@@ -160,10 +271,10 @@
     function move_eye (e) {
 
       let x1 = scr_w / 3
-      let x2 = (scr_w / 3) * 2
+      let x2 = (scr_w / 3) * 2 + 200
       let x3 = scr_w
       let y1 = scr_h / 3
-      let y2 = (scr_h / 3) * 2
+      let y2 = (scr_h / 3) * 2 + 200
       let y3 = scr_h
 
       let pupil = document.getElementById('pupil')

@@ -1,0 +1,143 @@
+.horse {
+  margin-top: 400px;
+  margin-bottom: 350px;
+  display: flex;
+  justify-content: space-between;
+
+  .horse__left {
+    max-width: 821px;
+
+    .horse__text {
+      font-weight: 300;
+      font-size: 22px;
+      .AR;
+    }
+
+    .horse-link {
+      display: inline-block;
+      margin-top: 75px;
+      text-decoration: none;
+
+      &__text {
+        color: @red;
+        font-weight: 600;
+        font-size: 18px;
+        .AR;
+      }
+
+      &__icon {
+        margin-left: 20px;
+        display: inline-block;
+        width: 46px;
+        height: 46px;
+        border: 1px solid @red;
+        border-radius: 46px;
+        text-align: center;
+        line-height: 42px;
+        color: @dark;
+        font-weight: bold;
+        font-size: 20px;
+
+        &:hover {
+          background: @red;
+          color: #fff;
+        }
+      }
+    }
+  }
+}
+
+.bla {
+  width: 100%;
+  display: flex;
+
+  .bla__left {
+    .bla__text {
+      font-weight: 800;
+      font-size: 70px;
+      white-space: nowrap;
+      .CONT;
+    }
+
+    .fil_red {
+      font-weight: 800;
+      font-size: 70px;
+      color: @red;
+      white-space: nowrap;
+      margin-top: -9px;
+      margin-bottom: -14px;
+      .CEB;
+    }
+  }
+
+  .bla__right {
+    margin-top: 300px;
+    margin-left: -100px;
+    display: flex;
+    flex-wrap: nowrap;
+
+    .bla__img {
+      margin-right: 170px;
+      width: 164px;
+      height: 164px;
+    }
+  }
+}
+
+.wrap-ticker-smile {
+  max-width: 100%;
+  overflow-x: hidden;
+  border-top: 2px solid @red;
+  border-bottom: 2px solid @red;
+  padding: 15px 0;
+  margin: 165px auto;
+
+  .ticker-smile {
+    display: flex;
+
+    .ticker-smile__text {
+      font-weight: 600;
+      font-size: 24px;
+      white-space: nowrap;
+      margin-right: 30px;
+      .AR;
+    }
+
+    .ticker-smile__icon {
+      height: 25px;
+      width: 25px;
+      display: inline-block;
+      margin-right: 30px;
+
+      img {
+        min-width: 25px;
+        display: inline-block;
+        animation: linear rotate_dashed infinite 5s;
+      }
+    }
+  }
+}
+
+@keyframes rotate_dashed {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes reduce {
+  0% {
+
+  }
+  100% {
+    width: 0;
+    height: 0;
+    min-width: 0;
+    min-height: 0;
+    opacity: 0;
+  }
+}
+
+
